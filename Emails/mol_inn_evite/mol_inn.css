@@ -1,0 +1,24 @@
+html, body, ul, ol, li, p, blockquote, q,
+h1, h2, h3, h4, h5, h6,
+form, fieldset, a, div, img{
+	margin: 0; padding: 0; border: 0;
+}
+a:link, a:visited {
+	color: #2B4487;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover, a:active {
+	text-decoration: underline;
+	color: #2B4487;
+}
+.PageText {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #000000;
+}
+.bg {
+	background-image: url(http://www.synergygroup.biz/evite/images/bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}

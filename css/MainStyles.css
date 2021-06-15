@@ -1,0 +1,23 @@
+html, body, ul, ol, li, p, blockquote, q,
+h1, h2, h3, h4, h5, h6,
+form, fieldset, a, div, img {
+	margin: 0; padding: 0; border: 0;
+}
+body {
+	background-image: url(../images/bg_image.jpg);
+	background-repeat: repeat-x;
+	background-color: #F0F0E4;
+}
+#Content {
+	position: relative;
+	width: 752px;
+	margin: 0 auto 0 auto;
+	background-image: url(../images/full_bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+#MainContent {
+	position: relative;
+	height: 600px;
+	padding-top: 65px;
+}
